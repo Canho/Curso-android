@@ -1,4 +1,4 @@
-package com.canho.sunshine;
+package com.canho.sunshine2;
 
 import org.junit.Test;
 
