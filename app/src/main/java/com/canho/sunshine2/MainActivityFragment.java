@@ -1,4 +1,4 @@
-package com.canho.sunshine;
+package com.canho.sunshine2;
 
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
